@@ -1,4 +1,6 @@
-# 20 (Data-Driven) Energy Stories You Can Tell About Your Community (tipsheet)
+# 24 (Data-Driven) Energy Stories You Can Tell About Your Community
+
+Tipsheet and presentation materials for the Inside Energy session at CAR16 in Denver.
 
 ###Download the presentation
 * As as [PDF](https://github.com/InsideEnergy/24-energy-stories-CAR16/blob/master/30EnergyStories.pdf?raw=true)
