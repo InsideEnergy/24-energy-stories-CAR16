@@ -1,7 +1,7 @@
 # 20 (Data-Driven) Energy Stories You Can Tell About Your Community (tipsheet)
 
 ###Download the presentation
-* As as [PDF](https://github.com/InsideEnergy/24-energy-stories-CAR16/blob/master/30EnergyStories.pptx?raw=true)
+* As as [PDF](https://github.com/InsideEnergy/24-energy-stories-CAR16/blob/master/30EnergyStories.pdf?raw=true)
 * As a [Powerpoint file](https://github.com/InsideEnergy/24-energy-stories-CAR16/blob/master/30EnergyStories.pptx?raw=true)
 
 ## Table of links and resources
@@ -33,8 +33,8 @@
 | 24     | Energy inputs in food                                   | Calorie for calorie, which foods take the most energy to produce?                                                                                                                                                                                                           | [Inside Enegy: "Quiz: How Much Energy Does It Take To Make Your Food?"](http://insideenergy.org/2015/12/08/quiz-how-much-energy-does-it-take-to-make-your-food/)                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Dig through lifecycle analysis research papers                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 ## Want more?
-[Data Battery](https://github.com/InsideEnergy/Data-for-stories) - data Inside Energy has used in our stories, shared on GitHub
-[Energy data links](http://bit.ly/IEDataResources) - a master list of where to go
+*[Data Battery](https://github.com/InsideEnergy/Data-for-stories) - data Inside Energy has used in our stories, shared on GitHub
+*[Energy data links](http://bit.ly/IEDataResources) - a master list of where to go
 
 
 ## Contact Us
