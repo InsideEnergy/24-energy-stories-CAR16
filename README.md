@@ -36,7 +36,7 @@ Tipsheet and presentation materials for the Inside Energy session at CAR16 in De
 
 ## Want more?
 * [Data Battery](https://github.com/InsideEnergy/Data-for-stories) - data Inside Energy has used in our stories, shared on GitHub
-* [Energy data links](http://bit.ly/IEDataResources) - a master list of where to go
+* [Energy data links](http://bit.ly/IEDataResources) - a master list of where to go 
 
 
 ## Contact Us
