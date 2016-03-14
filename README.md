@@ -43,6 +43,6 @@ Tipsheet and presentation materials for the Inside Energy session at CAR16 in De
 The [Inside Energy](http://insideenergy.org/) team would love to chat with you - we're energy nerds now, but we weren't born that way. We all still remember what it's like to be suddenly faced with terms like pet coke, stripper wells, and ethylene crackers. Please reach out to our team!
 * Jordan Wirfs-Brock (Colorado) - jordanwb@insideenergy.org
 * Dan Boyce (Colorado) - dboyce@insideenergy.org
-* Stephanie Joyce (Wyoming) - sjoyce3@uwyo.edu
+* Stephanie Joyce (Wyoming) - sjoyce3@insideenergy.org
 * Leigh Paterson - (Wyoming) - lpaterson@insideenergy.org
 * Rebecca Jacobson - (Colorado) - rjacobson@insideenergy.org
